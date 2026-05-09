@@ -26,7 +26,7 @@ Siempre abierto a aprender nuevas tecnologías en Backend y FullStack.
 
 ## 📭 Contacto
 - [LinkedIn](https://www.linkedin.com/in/asierrodr%C3%ADguezlamas/)
-- Email: Asierlamas05@gmail.com
+- Email: asierlamas05@gmail.com
 
 <!--
 **Asierrl1110/Asierrl1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
